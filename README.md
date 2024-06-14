@@ -4,7 +4,7 @@
 # Itens desta coleção
 
 
-- [Introdução ao GitHub Copilot](/home/dop/fleet/msft-learn-collections-fund-github-copilot/intro-github-copilot.md)
+- [Introdução ao GitHub Copilot](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/intro-github-copilot.md)
 - Introdução à engenharia de prompts com o Copilot do GitHub
 - Usando o GitHub Copilot com JavaScript
 - Usar o GitHub Copilot com o Python
