@@ -5,19 +5,19 @@
 
 
 - [Introdução ao GitHub Copilot](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/intro-github-copilot.md)
-- Introdução à engenharia de prompts com o Copilot do GitHub
-- Usando o GitHub Copilot com JavaScript
-- Usar o GitHub Copilot com o Python
-- Projeto de desafio – criar um igame com o GitHub Copilot e Python
-- Introdução ao GitHub
-- Gerenciar um programa InnerSource usando o GitHub
-- Criar um programa de software livre usando as melhores práticas do GitHub
-- Carregar seu projeto usando as melhores práticas do GitHub
-- Migrar seu repositório usando as melhores práticas do GitHub
-- Manter um repositório seguro com as melhores práticas do GitHub
-- Contribuir para um projeto de software livre no GitHub
-- Projeto guiado: criar um mecanismo de sugestão automática com o Copilot
-- Introdução ao GitHub Actions
-- Aprender a integração contínua com o GitHub Actions
-- Explorar o Azure Pipelines
-- Criar um pipeline de build com o Azure Pipelines
+- [Introdução à engenharia de prompts com o Copilot do GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Usando o GitHub Copilot com JavaScript](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Usar o GitHub Copilot com o Python](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Projeto de desafio – criar um igame com o GitHub Copilot e Python](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Introdução ao GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Gerenciar um programa InnerSource usando o GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Criar um programa de software livre usando as melhores práticas do GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Carregar seu projeto usando as melhores práticas do GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Migrar seu repositório usando as melhores práticas do GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Manter um repositório seguro com as melhores práticas do GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Contribuir para um projeto de software livre no GitHub](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Projeto guiado: criar um mecanismo de sugestão automática com o Copilot](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Introdução ao GitHub Actions](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Aprender a integração contínua com o GitHub Actions](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Explorar o Azure Pipelines](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
+- [Criar um pipeline de build com o Azure Pipelines](https://github.com/daniloopinheiro/msft-learn-collections-fund-github-copilot/blob/main/)
