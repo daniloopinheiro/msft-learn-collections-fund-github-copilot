@@ -164,3 +164,6 @@ img.socialIcon:hover {
 - [Introdução ao GitHub Copilot](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-copilot/?WT.mc_id=academic-105774-abrilu)
 - [Codificar com o Codespaces do GitHub](https://learn.microsoft.com/pt-br/training/modules/code-with-github-codespaces/?WT.mc_id=academic-105774-abrilu)
 - [Introdução ao React](https://learn.microsoft.com/pt-br/training/modules/react-get-started/?WT.mc_id=academic-105774-abrilu)
+
+## Conquista
+![image-20240617200522242](/home/dop/.config/Typora/typora-user-images/image-20240617200522242.png)
