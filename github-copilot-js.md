@@ -158,7 +158,7 @@ img.socialIcon:hover {
 }
 ```
 
-## ## Referências
+## Referências
 
 - [O que é o GitHub Copilot?](https://learn.microsoft.com/pt-br/shows/introduction-to-github-copilot/what-is-github-copilot-1-of-6?WT.mc_id=academic-105743-bethanycheum)
 - [Introdução ao GitHub Copilot](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-copilot/?WT.mc_id=academic-105774-abrilu)
